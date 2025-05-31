@@ -23,7 +23,21 @@ To make deployment easy and scalable, I created a `Dockerfile` that packages the
    - Pulled the Docker image from Docker Hub in Google Cloud Run.
    - Configured Cloud Run for automatic deployment and scaling.
 
+---
 
+## Deployment Screenshots
+
+### 1. Cloud Run Container Configuration
+This screenshot shows the configuration of the container in Google Cloud Run, where the Docker image is pulled from Docker Hub and the container port is set to 80.
+
+![Cloud Run Container Configuration](./Screenshot%202025-05-31%20175146.png)
+
+### 2. Portfolio Website Running in Cloud Run
+This screenshot demonstrates the deployed portfolio website running successfully on Google Cloud Run.
+
+![Portfolio Website Deployed](./Screenshot%202025-05-31%20181354.png)
+
+---
 
 ## How to Deploy
 
