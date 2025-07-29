@@ -482,6 +482,7 @@ html {
     .hero-navbar {
         right: 2vw;
         top: 8px;
+        display: none;
     }
     .hero-navbar ul {
         gap: 8px;
